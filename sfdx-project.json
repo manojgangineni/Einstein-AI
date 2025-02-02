@@ -3,10 +3,13 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "Einstein-AI/force-app"
     }
   ],
-  "name": "AgentForce",
+  "name": "Agent Force Manoj",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0"
+  "sourceApiVersion": "62.0"
 }
